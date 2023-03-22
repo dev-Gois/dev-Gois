@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Gois</h1>
-<h3 align="center">A passionate full-stack developer from Brazil.</h3>
+<h3 align="center">A junior full-stack developer from Brazil.</h3>
+
+- 🔭 I’m currently working on some university stuff 
+
+- 👯 I’m looking to collaborate on open-source projects and researchs 
+
+- 🤝 I’m looking for help with some jobs 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
