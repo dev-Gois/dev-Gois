@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on open-source projects and researchs 
 
-- 🤝 I’m looking for help with some jobs 
+- 🤝 I’m looking for knowledge
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
