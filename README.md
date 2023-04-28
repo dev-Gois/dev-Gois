@@ -22,7 +22,7 @@ class Matheus {
     formacao() {
       return {
         ensinoMedio: {
-          instituicao: "Adriano Nobre",
+          instituicao: "Escola Estadual de Ensino Profissional Adriano Nobre",
           periodo: "2020-2022",
           curso: "Técnico em Informática"
         },
