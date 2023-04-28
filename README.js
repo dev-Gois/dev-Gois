@@ -1,4 +1,5 @@
-```javascript
+```js
+
 class Matheus {
     constructor() {
       this.nome = "Matheus Alves Gois";
@@ -54,6 +55,7 @@ class Matheus {
   }
   
   const matheus = new Matheus();
+
 ```
 <h2 align="center">Skills </h2>
 
