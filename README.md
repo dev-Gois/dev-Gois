@@ -66,5 +66,5 @@ class Matheus {
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=dev-Gois&theme=tokyonight&show_icons=true">
 </p>
