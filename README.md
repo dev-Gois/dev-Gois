@@ -61,7 +61,7 @@ class Matheus {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,rails,react,ruby,vscode,php,js,css,html" />
   </a>
 </p>
 
