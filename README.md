@@ -36,8 +36,8 @@ class Matheus {
   
     coding() {
       return {
-        linguagens: ['Python', 'JavaScript', 'Ruby', 'PHP', 'SQL', 'Dart'],
-        frameworks: ['Ruby on Rails', 'React', 'Flutter'],
+        linguagens: ['Python', 'JavaScript', 'Ruby', 'PHP', 'SQL'],
+        frameworks: ['Ruby on Rails', 'React', 'React Native'],
         ide: ['Visual Studio Code', 'pyCharm'],
         bancoDados: ['PostgresSQL', 'MySQL']
       };
@@ -61,7 +61,7 @@ class Matheus {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,postgres,ruby,rails,react,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=aws,postgres,ruby,rails,react,react-native,js,css,html" />
   </a>
 </p>
 
