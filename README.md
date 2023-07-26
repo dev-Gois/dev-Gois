@@ -45,10 +45,7 @@ class Matheus {
   
     experienciaProfissional() {
       return {
-        primeiroEmprego: {
-          nomeEmpresa: "Digital Informática",
-          cargo: "Designer Gráfico",
-          periodo: "Agosto - 2022 à Março - 2023"
+        "building. . ."
         }
       };
     } 
