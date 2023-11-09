@@ -13,7 +13,7 @@ class Matheus {
   
     contato() {
       return {
-        discord: "goiiss#0001",
+        discord: "goiiss",
         linkedin: "https://www.linkedin.com/in/matheus-gois-37659526b/",
         email: "mattheusgoiis@gmail.com"
       };
@@ -39,17 +39,25 @@ class Matheus {
         linguagens: ['Python', 'JavaScript', 'Ruby', 'PHP', 'SQL'],
         frameworks: ['Ruby on Rails', 'React', 'React Native'],
         ide: ['Visual Studio Code', 'pyCharm'],
-        bancoDados: ['PostgresSQL', 'MySQL']
+        bancoDados: ['PostgresSQL', 'MySQL'],
+        devOps: ['Docker']
       };
     }
   
     experienciaProfissional() {
       return {
-        "ERROR 404! NOT FOUND"
+        freelance: [
+            [
+                {
+                nome: "Slyoon",
+                tecnologias: ['React-Native'],
+                description: "Uma rede social de vídeos pra a contratação de influencers digitais para divulgação."
+                }
+            ]]
         }
       };
     } 
-  }
+  
   
   const matheus = new Matheus();
 
