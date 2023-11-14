@@ -66,7 +66,7 @@ class Matheus {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,postgres,ruby,rails,react,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=aws,postgres,ruby,rails,react,docker,js,css,html" />
   </a>
 </p>
 
