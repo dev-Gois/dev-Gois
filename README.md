@@ -1,4 +1,4 @@
-<h1 align="center">Salve! me chame de Matheus Gois</h1>
+<h1 align="center">Opa! 👋 meu nome é Matheus Gois</h1>
 <h3 align="center">Um desenvolvedor Fullstack brasileiro.</h3>
 
 Sou um desenvolvedor sedento por aprender sobre tecnologias e suas capacidades de mudar a realidade de vida das pessoas! Além disso, sou alguém muito enérgico que gosta de se comunicar com os outros e adora relações com aqueles que estão ao redor.
