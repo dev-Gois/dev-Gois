@@ -1,75 +1,17 @@
-```js
+<h1 align="center">Salve! me chame de Matheus Gois</h1>
+<h3 align="center">Um desenvolvedor Fullstack brasileiro.</h3>
 
-class Matheus {
-    constructor() {
-      this.nome = "Matheus Alves Gois";
-      this.idade = 18;
-      this.nacionalidade = "Brasileiro";
-      this.idiomas = {
-        nativo: 'Português',
-        aprendendo: 'Inglês'
-      };
-    }
-  
-    contato() {
-      return {
-        discord: "goiiss",
-        linkedin: "https://www.linkedin.com/in/matheus-gois-37659526b/",
-        email: "mattheusgoiis@gmail.com"
-      };
-    }
-  
-    formacao() {
-      return {
-        ensinoMedio: {
-          instituicao: "Escola Estadual de Ensino Profissional Adriano Nobre",
-          periodo: "2020-2022",
-          curso: "Técnico em Informática"
-        },
-        ensinoSuperior: {
-          instituicao: "UFC - Universidade Federal do Ceará",
-          semestre: "1º Semestre",
-          curso: "Análise e Desenvolvimento de Sistemas"
-        }
-      };
-    }
-  
-    coding() {
-      return {
-        linguagens: ['Python', 'JavaScript', 'Ruby', 'PHP', 'SQL'],
-        frameworks: ['Ruby on Rails', 'React', 'React Native'],
-        ide: ['Visual Studio Code', 'pyCharm'],
-        bancoDados: ['PostgresSQL', 'MySQL'],
-        devOps: ['Docker']
-      };
-    }
-  
-    experienciaProfissional() {
-      return {
-        freelance: [
-            [
-                {
-                nome: "Slyoon",
-                tecnologias: ['React-Native'],
-                description: "Uma rede social de vídeos pra a contratação de influencers digitais para divulgação."
-                }
-            ]]
-        }
-      };
-    } 
-  
-  
-  const matheus = new Matheus();
+Sou um desenvolvedor sedento por aprender sobre tecnologias e suas capacidades de mudar a realidade de vida das pessoas! Além disso, sou alguém muito enérgico que gosta de se comunicar com os outros e adora relações com aqueles que estão ao redor.
 
-```
-<h2 align="center">Skills </h2>
+Atualmente trabalho em projetos pessoais e em projetos como freelancer, além de estudar todos os dias sobre desenvolvimento.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,postgres,ruby,rails,react,docker,js,css,html" />
-  </a>
-</p>
+Estou fazendo faculdade de Análise e Desenvolvimento de Sistemas na Universidade Federal Do Ceará! cursando atualmente o 2º (segundo) semestre.
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=dev-Gois&theme=tokyonight&show_icons=true">
-</p>
+Atualmente estudo e trabalho com as seguintes tecnologias principalmente: Ruby on Rails, React, React Native.
+
+Falo português nativamente e compreendo inglês de forma avançada (escrita, leitura e escuta) tendo certas dificuldades para pronuncia.
+
+Você pode falar comigo no meu Linkedin ou email!
+
+Meu Linkedin: https://www.linkedin.com/in/matheus-gois-37659526b/
+Meu email: mattheusgoiis@gmail.com
