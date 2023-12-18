@@ -3,11 +3,11 @@
 
 I'm a developer eager to learn about technologies and their capabilities to change the reality of people's lives! Furthermore, I am someone very energetic who enjoys communicating with others and loves relationships with those around me.
 
-I currently work on personal projects and freelance projects, in addition to studying development every day.
+I currently work on personal projects and freelance works, in addition to studying development every day.
 
 I'm studying Systems Analysis and Development at the Federal University of Ceará! Currently studying the 2nd (second) semester.
 
-I currently study and work with the following technologies mainly: Ruby on Rails, React, React Native.
+I have solid knowledge with the following technologies mainly: Ruby on Rails, React, React Native.
 
 I speak Portuguese natively and understand English in an advanced way (writing, reading and listening).
 ##
