@@ -5,7 +5,7 @@ I'm a developer eager to learn about technologies and their capabilities to chan
 
 I currently work at Mercado Diferente, in addition to studying development and doing personal projects every day.
 
-I'm studying Systems Analysis and Development at the Federal University of Ceará! Currently studying the 2nd (second) semester.
+I'm studying Systems Analysis and Development at the Federal University of Ceará! Currently studying the 3nd (third) semester.
 
 I have solid knowledge with the following technologies mainly: Ruby on Rails, React, React Native.
 
@@ -25,6 +25,7 @@ I speak Portuguese natively and understand English in an advanced way (writing, 
 ![Label](https://img.shields.io/badge/languages-000.svg?style=for-the-badge&)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
@@ -32,6 +33,7 @@ I speak Portuguese natively and understand English in an advanced way (writing, 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)
 
 ![Label](https://img.shields.io/badge/backend-000.svg?style=for-the-badge&)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
