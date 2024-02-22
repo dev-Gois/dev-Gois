@@ -3,7 +3,7 @@
 
 I'm a developer eager to learn about technologies and their capabilities to change the reality of people's lives! Furthermore, I am someone very energetic who enjoys communicating with others and loves relationships with those around me.
 
-I currently work on personal projects and freelance works, in addition to studying development every day.
+I currently work at Mercado Diferente, in addition to studying development and doing personal projects every day.
 
 I'm studying Systems Analysis and Development at the Federal University of Ceará! Currently studying the 2nd (second) semester.
 
