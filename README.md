@@ -37,9 +37,6 @@ I speak Portuguese natively and understand English in an advanced way (writing, 
 
 ![Label](https://img.shields.io/badge/backend-000.svg?style=for-the-badge&)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Rspec](https://img.shields.io/badge/rspec-%23CC342D.svg?style=for-the-badge&logo=rubygems&logoColor=white)
-![Sidekiq](https://img.shields.io/badge/sidekiq-%23CC342D.svg?style=for-the-badge&logo=rubygems&logoColor=white)
-![Interactors](https://img.shields.io/badge/interactors-%23CC342D.svg?style=for-the-badge&logo=rubygems&logoColor=white)
 
 ![Label](https://img.shields.io/badge/databases-000.svg?style=for-the-badge&)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,10 +46,13 @@ I speak Portuguese natively and understand English in an advanced way (writing, 
 ![Label](https://img.shields.io/badge/mobile-000.svg?style=for-the-badge&)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![Label](https://img.shields.io/badge/extra-000.svg?style=for-the-badge&)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Label](https://img.shields.io/badge/devops-000.svg?style=for-the-badge&)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Label](https://img.shields.io/badge/message_brokers-000.svg?style=for-the-badge&)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+![Label](https://img.shields.io/badge/os-000.svg?style=for-the-badge&)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
