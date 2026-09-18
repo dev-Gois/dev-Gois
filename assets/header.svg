@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Matheus Gois — Software Engineer</title>
+<desc id="desc">Building the bridge between AI and commerce. Ceará, Brazil. A diagram connects agents to tools and commerce.</desc>
+<rect width="1200" height="380" rx="12" fill="#111512"/>
+<path d="M40 40h30M40 40v30M1160 310v30h-30" fill="none" stroke="#b8e665" stroke-width="2"/>
+<text x="72" y="83" font-family="monospace" font-size="15" letter-spacing="3" fill="#b8e665">DEV-GOIS / SOFTWARE ENGINEER</text>
+<text x="68" y="164" font-family="Arial, sans-serif" font-weight="700" font-size="66" fill="#f4f5ef">Matheus Gois.</text>
+<text x="72" y="215" font-family="Arial, sans-serif" font-size="25" fill="#d5dbd1">Building the bridge between</text>
+<text x="72" y="251" font-family="Arial, sans-serif" font-size="25" fill="#b8e665">AI and commerce.</text>
+<text x="72" y="322" font-family="monospace" font-size="14" fill="#99a494">CEARÁ, BRAZIL / AGENTSHOP</text>
+<g fill="none" stroke="#667b50" stroke-width="2"><path d="M829 115L939 190 829 265M939 190h134"/><circle cx="829" cy="115" r="32"/><circle cx="829" cy="265" r="32"/><circle cx="939" cy="190" r="37"/><circle cx="1098" cy="190" r="25"/></g>
+<g fill="#b8e665"><circle cx="829" cy="115" r="6"/><circle cx="829" cy="265" r="6"/><circle cx="939" cy="190" r="9"/><circle cx="1098" cy="190" r="5"/></g>
+<g fill="#bcc6b5" font-family="monospace" font-size="13" text-anchor="middle"><text x="829" y="65">AGENTS</text><text x="829" y="321">TOOLS</text><text x="1053" y="251">COMMERCE</text></g>
+</svg>
