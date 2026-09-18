@@ -1,6 +1,4 @@
-![Oi, I'm Matheus Gois. Software engineer from Ceará, Brazil.](assets/header.svg)
-
-### A little about me
+# Oi, I’m Matheus 👋
 
 I'm a software engineer from **Ceará, Brazil**. I enjoy figuring out how things work, exchanging ideas, and turning what I learn into something people can use.
 
@@ -8,26 +6,21 @@ Currently a **Mid-Level Software Engineer at AgentShop**, working with full-stac
 
 Lately, I've been spending time with **multi-agent systems, software architecture, and Go**. My background also includes mobile development with React Native.
 
-### Toolbox
+<details>
+<summary><strong>🧰 Toolbox — technologies I work with</strong></summary>
 
-**Languages & frameworks**
+| Area | Technologies |
+| :-- | :-- |
+| Languages | Ruby · TypeScript · JavaScript |
+| Backend | Rails · Sidekiq |
+| Web & mobile | React · Next.js · React Native |
+| Data & search | PostgreSQL · Redis · OpenSearch |
+| AI | LLM integrations · LangChain · MCP · Multi-agent systems |
+| Development | Docker · Git · GitHub Actions · Linux · RSpec |
 
-[![Ruby, Rails, TypeScript, JavaScript, React, and Next.js](https://skillicons.dev/icons?i=ruby,rails,ts,js,react,nextjs&theme=dark)](https://skillicons.dev)
+Currently exploring **Go** and **software architecture**.
 
-Ruby · Rails · TypeScript · JavaScript · React · Next.js
-
-**Data & development tools**
-
-[![PostgreSQL, Redis, Docker, Git, GitHub Actions, and Linux](https://skillicons.dev/icons?i=postgres,redis,docker,git,githubactions,linux&theme=dark)](https://skillicons.dev)
-
-PostgreSQL · Redis · Docker · Git · GitHub Actions · Linux
-
-**Also in the mix**
-
-`Sidekiq` · `OpenSearch` · `RSpec` · `React Native`  
-`LLM integrations` · `LangChain` · `MCP` · `Multi-agent systems`
-
-**Currently exploring:** Go & software architecture.
+</details>
 
 ### A few things from my corner of GitHub
 
