@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">Oi, I'm Matheus Gois.</title>
-<desc id="desc">Software engineer from Ceará, Brazil. A warm paper-colored banner with rust typography and a hand-drawn asterisk.</desc>
-<rect width="1200" height="320" rx="8" fill="#f3eee5"/>
-<path d="M54 55h1092M54 268h1092" stroke="#d3c9bb"/>
-<text x="58" y="39" fill="#685b4e" font-family="monospace" font-size="13" letter-spacing="2">DEV-GOIS</text>
-<text x="1142" y="39" text-anchor="end" fill="#685b4e" font-family="monospace" font-size="13" letter-spacing="2">CEARÁ, BRASIL</text>
-<text x="58" y="113" fill="#9c4a32" font-family="Georgia, serif" font-style="italic" font-size="32">Oi, I'm</text>
-<text x="52" y="210" fill="#292720" font-family="Georgia, serif" font-size="91">Matheus Gois.</text>
-<g stroke="#b65b3e" stroke-width="9" stroke-linecap="round" transform="translate(1035 160)"><path d="M-42 -45L42 45M-55 10L55 -10M-12 -60L12 60"/></g>
-<text x="58" y="298" fill="#685b4e" font-family="monospace" font-size="16">SOFTWARE ENGINEER</text>
-<text x="1142" y="298" text-anchor="end" fill="#685b4e" font-family="monospace" font-size="16">CODE, CURIOSITY &amp; A BIT OF EVERYTHING.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">Matheus Gois — Software Engineer</title>
+<desc id="desc">A midnight blue banner with clean typography, a cyan accent, and a subtle code symbol. Ceará, Brazil.</desc>
+<rect width="1200" height="240" rx="10" fill="#101923"/>
+<path d="M0 239H1200" stroke="#263b4c" stroke-width="2"/>
+<path d="M54 56v124" stroke="#63c8d5" stroke-width="4"/>
+<text x="80" y="73" font-family="monospace" font-size="15" letter-spacing="2" fill="#80a2b7">OI, I'M</text>
+<text x="76" y="140" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" fill="#edf3f7">Matheus Gois</text>
+<text x="80" y="182" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#a4b8c8">Software Engineer · Ceará, Brazil</text>
+<g fill="none" stroke="#345367" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M960 83l-39 37 39 37M1080 83l39 37-39 37M1041 65l-42 110"/></g>
 </svg>
