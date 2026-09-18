@@ -1,44 +1,27 @@
-![Matheus Gois — Software Engineer. Building the bridge between AI and commerce.](assets/header.svg)
+![Oi, I'm Matheus Gois. Software engineer from Ceará, Brazil.](assets/header.svg)
 
-[LinkedIn ↗](https://www.linkedin.com/in/matheus-gois-37659526b/) · [Say hello ↗](mailto:mattheusgois@gmail.com)
+### A little about me
 
-### Oi, I'm Matheus 👋
+I'm a software engineer from **Ceará, Brazil**. I enjoy figuring out how things work, exchanging ideas, and turning what I learn into something people can use.
 
-**Mid-Level Software Engineer at AgentShop**, building the software behind AI-powered commerce. From Ceará, Brazil, with a degree in **Systems Analysis and Development from the Federal University of Ceará**.
+Currently a **Mid-Level Software Engineer at AgentShop**, working with full-stack development and AI agents. I graduated in **Systems Analysis and Development at the Federal University of Ceará**.
 
-I connect AI agents to the systems that make things happen: finding products, placing orders, and helping customers. My work spans backend engineering, web interfaces, and the integrations in between.
+Lately, I've been spending time with **multi-agent systems, software architecture, and Go**. My background also includes mobile development with React Native.
 
-### Conversation → action
+### Things I build with
 
-```text
-Customer intent → AI agents → Tools & APIs → Commerce workflows
-                       ↑                           │
-                       └──── Feedback & quality ───┘
-```
+**Ruby & Rails** · **TypeScript** · **React & Next.js**
 
-**What I work on**
+PostgreSQL · Redis · Sidekiq · OpenSearch · LLMs & MCP
 
-- **Agents that act** — LLM integrations, multi-agent workflows, and MCP.
-- **Connected commerce** — conversations, catalogs, checkout, and platform integrations.
-- **Quality you can see** — agent performance dashboards and knowledge curation.
-- **Reliable foundations** — tested APIs, background jobs, and query optimization.
+### A few things from my corner of GitHub
 
-### My toolbox
+- [**Lexico**](https://github.com/dev-Gois/lexico) — my take on the word game Termo. [Play it ↗](https://dev-gois.github.io/lexico/)
+- [**TaskTrackr**](https://github.com/dev-Gois/TaskTrackr) — a to-do application built with Ruby on Rails.
+- [**Python workshop**](https://github.com/dev-Gois/oficina-python-petufc) — workshop materials from PET at UFC Itapajé.
 
-| | Technologies |
-| :-- | :-- |
-| **Backend** | Ruby · Rails · Sidekiq |
-| **Web** | TypeScript · React · Next.js · Hotwire |
-| **Data & search** | PostgreSQL · Redis · OpenSearch |
-| **AI & integrations** | LLMs · LangChain · RubyLLM · MCP |
-| **Quality** | RSpec · Integration testing · Observability |
-
-### Beyond the day-to-day
-
-Exploring **Go**, software architecture, and better ways to build dependable AI systems.
-
-Much of my current work lives in private company repositories. Here you'll also find personal projects and experiments from along the way.
+These are some projects from along the way. Most of my current professional work lives in private repositories.
 
 ---
 
-**Good conversations. Useful tools. Software that follows through.**
+**Let's talk.** [LinkedIn ↗](https://www.linkedin.com/in/matheus-gois-37659526b/) · [Email ↗](mailto:mattheusgois@gmail.com)
